@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DemoWebServiceClient.iml" filepath="$PROJECT_DIR$/DemoWebServiceClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyConvertorWebServiceClient.iml" filepath="$PROJECT_DIR$/CurrencyConvertorWebServiceClient.iml" />
     </modules>
   </component>
 </project>
